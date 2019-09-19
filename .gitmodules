@@ -1,0 +1,3 @@
+[submodule "bayes-alread-schema"]
+	path = bayes-alread-schema
+	url = git@github.com:vindex10/bayes-alread-schema.git
