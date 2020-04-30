@@ -30,7 +30,7 @@
     "browserify": "^16.5.0",
     "browserify-shim": "^3.8.14",
     "browserify-string": "^1.1.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-sortable": "^0.9.13",
     "jsonform": "^2.1.5",
     "jsv": "^1.0.0",
