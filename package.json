@@ -34,7 +34,7 @@
     "jquery-sortable": "^0.9.13",
     "jsonform": "^2.1.5",
     "jsv": "^1.0.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "budo": "^11.6.3",
